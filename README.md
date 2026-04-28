@@ -14,7 +14,6 @@ In this task, I analyzed a dataset containing student grades and demographic inf
 
 ## 🚀 Technologies Used
 - **Language:** Python
-- **Libraries:** Pandas, Matplotlib, Seaborn
 - **Tool:** Google Colab
 
 ## 📈 Results
