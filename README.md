@@ -14,7 +14,7 @@ In this task, I analyzed a dataset containing student grades and demographic inf
 
 ## 🚀 Technologies Used
 - **Language:** Python
-- **Tool:** Google Colab
+- **Tools:** Google Colab
 
 ## 📈 Results
 - **Average Grade:** 10.42
